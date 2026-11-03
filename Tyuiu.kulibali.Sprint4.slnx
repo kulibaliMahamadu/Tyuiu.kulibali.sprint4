@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/task0/">
     <Project Path="Tyuiu.kulibali.sprint4.task0.V4.lib/Tyuiu.kulibali.sprint4.task0.V4.lib.csproj" Id="828676c0-5263-4e35-acc6-31f05a7bc797" />
-    <Project Path="Tyuiu.kulibali.sprint4.task0.V4.test/Tyuiu.kulibali.sprint4.task0.V4.test.csproj" Id="fc15e36a-3c4e-4104-a1f1-317bb6d0bfdf" />
     <Project Path="Tyuiu.kulibali.sprint4.task0.V4/Tyuiu.kulibali.sprint4.task0.V4.csproj" Id="a1117b32-cf37-4d69-b48e-a18b11019e26" />
+    <Project Path="Tyuiu.kulibali.sprint4.task1.V4.TEST/Tyuiu.kulibali.sprint4.task0.V4.test.csproj" Id="9297bbfe-efa4-48fc-8917-18dcef4cb531" />
   </Folder>
 </Solution>

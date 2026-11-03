@@ -5,7 +5,24 @@
     {
         public int GetMultEvenArrEl(int[] array)
         {
-            throw new NotImplementedException();
+            int count = 1;
+
+            
+
+            foreach (int i in array)
+            {
+                if(i % 2 == 0)
+                {
+
+                    count *= i;
+
+                }
+
+               
+            }
+            return count;
+            
+            
         }
     }
 }
