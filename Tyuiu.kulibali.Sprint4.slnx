@@ -29,14 +29,4 @@
     <Project Path="Tyuiu.kulibali.sprint4.task5.V8.test/Tyuiu.kulibali.sprint4.task5.V8.test.csproj" Id="44a41177-9b58-4cda-ab2c-6a487ebfd4fb" />
     <Project Path="Tyuiu.kulibali.sprint4.task5.V8/Tyuiu.kulibali.sprint4.task5.V8.csproj" Id="d18ad7e8-6e41-4487-b8e6-1804789b502a" />
   </Folder>
-  <Folder Name="/task6/">
-    <Project Path="Tyuiu.kulibali.sprint4.task6.V3.lib/Tyuiu.kulibali.sprint4.task6.V3.lib.csproj" Id="e0f39af3-7819-46d1-9d26-ef86732d38ed" />
-    <Project Path="Tyuiu.kulibali.sprint4.task6.V3.test/Tyuiu.kulibali.sprint4.task6.V3.test.csproj" Id="a6267170-61c5-425f-b7dc-1ca7bb1970fd" />
-    <Project Path="Tyuiu.kulibali.sprint4.task6.V3/Tyuiu.kulibali.sprint4.task6.V3.csproj" Id="ec8b6e47-1282-4c5f-bf20-5d5256f0f5ab" />
-  </Folder>
-  <Folder Name="/task7/">
-    <Project Path="Tyuiu.kulibali.sprint4.task7.V6.lib/Tyuiu.kulibali.sprint4.task7.V6.lib.csproj" Id="576e8d3b-2166-4a56-8461-5b79bab7859a" />
-    <Project Path="Tyuiu.kulibali.sprint4.task7.V6.test/Tyuiu.kulibali.sprint4.task7.V6.test.csproj" Id="c5482d2f-5b0e-4915-98a6-a621feed7596" />
-    <Project Path="Tyuiu.kulibali.sprint4.task7.V6/Tyuiu.kulibali.sprint4.task7.V6.csproj" Id="743ef9fc-6067-4d41-8360-6b10e04279cf" />
-  </Folder>
 </Solution>
